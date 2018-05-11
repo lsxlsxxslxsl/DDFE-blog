@@ -4,7 +4,16 @@
 
 [滴滴平台技术部前端招聘](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
 
+## cube-ui 系列
+
+[cube-ui技术内幕](https://github.com/DDFE/DDFE-blog/issues/31)
+
 ## vue系列
+
+[vue-music 音乐 App 之 cube-ui 重构](https://github.com/DDFE/DDFE-blog/issues/26) by [黄轶](https://github.com/ustbhuangyi)
+
+[Vue.js 升级踩坑小记](https://github.com/DDFE/DDFE-blog/issues/24) by [黄轶](https://github.com/ustbhuangyi)
+
 [Vue 2.0 的 virtual-dom 实现简析](https://github.com/DDFE/DDFE-blog/issues/18) by [肖磊](https://github.com/CommanderXL)
 
 [Vue 2.0 的数据依赖实现原理简析](https://github.com/DDFE/DDFE-blog/issues/17) by [肖磊](https://github.com/CommanderXL)
@@ -29,7 +38,19 @@
 
 ## 移动端技术分享
 
+[字符串模板浅析](https://github.com/DDFE/DDFE-blog/issues/25) by [崔静](https://github.com/cuijing1031)
+
 [BetterScroll：在移动端滚动场景的应用](https://github.com/DDFE/DDFE-blog/issues/22) by [付楠](https://github.com/AmyFoxFN)
+
+## Node.js 系列
+
+[Node.js Readable Stream的实现简析](https://github.com/DDFE/DDFE-blog/issues/27) by [肖磊](https://github.com/CommanderXL)
+ 
+[Node.js Writable Stream的实现简析](https://github.com/DDFE/DDFE-blog/issues/28) by [肖磊](https://github.com/CommanderXL)
+
+## 自动化测试系列
+
+[AVA测试框架内部的Promise异步流程控制模型](https://github.com/DDFE/DDFE-blog/issues/29) by [肖磊](https://github.com/CommanderXL)
 
 ## webpack系列
 
